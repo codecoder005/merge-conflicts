@@ -10,3 +10,8 @@ This line added in my branch.
 his branch
 ----------
 This line is added in his-branch.
+
+
+
+THIS LINE IS ADDED IN Master
+----------------------------
