@@ -1,3 +1,7 @@
 master branch
 -------------
-This line is from master branch.
+This line is from master branch. This line is edited in my-branch.
+
+my branch
+---------
+This line added in my branch.
